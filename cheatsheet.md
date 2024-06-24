@@ -1,4 +1,4 @@
-# cheat paper
+# cheatsheet
 
 ## 代码部分
 
